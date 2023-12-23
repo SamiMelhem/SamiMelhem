@@ -34,8 +34,6 @@ I'm a sophomore at Texas A&M University pursuing an internship in Data Analytics
           Carrying this enthusiasm with me, I embarked on my collegiate journey at Texas A&M University as a Computer Science student, eager to dive deeper into the complexities of this field. My focus soon shifted to Data Analytics, where I was captivated by the ability to translate bast datasets into meaningful insights. Currently I am apart of the Aggie Coding Club where I sharpen my coding skills, and the Aggie Data Science Club where I'm apart of a project called mrkts.expert, projecting market trends and learning how to understand chart patterns. These experiences have allowed me to blend theoretical knowledge with practical application.
           Now, as I navigate through my sophomore year, I'm reminded of the importance of stepping out of my comfort zone. The initial spark of fascination that was ignited in high school has now matured into a commitment to not only excel in data analytics but to also create impactful solutions. As I balance my academic responsibilities with personal development, I am setting in place strategies to channel more of my time and energy into bringing innovative ideas to fruition.
           Heading into the Spring 2024 semester, I am going to be joining the TAMU Robomasters organization as a software team member hoping to learn how to create autonomous robots and compete against teams from across the world. Additionally I will be joining a research team in the Computer Science department learning about how to implement newly founded data structures to improve fact checker performance.  
-</details>
-
-# 
+</details> 
 
 Check out my repos ⬇️
