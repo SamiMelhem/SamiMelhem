@@ -32,6 +32,8 @@ I'm a sophomore at Texas A&M University pursuing an internship in Data Analytics
 
 #
 
+#
+
 <details>
           <summary><h3>👨🏽‍🏫 Sami's Coding Journey</h3></summary>
           I began my coding journey in high school, a period marked by curiosity and exploration. It was here, in the bustling corridors of learning, that I first encountered the world of programming. Java and Python were my initial guides, opening my eyes to the limitless possibilities that coding brings to the world. I applied my learning to my high school robotics team where I was a software lead leading our team to receiving 2nd place in the 6A UIL State competition. This foundational experience in high school laid the groundwork for my passion, shaping my understanding of the power and potential of technology.
