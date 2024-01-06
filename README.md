@@ -37,7 +37,7 @@ I am a sophomore at Texas A&M University pursuing an internship in Data Analytic
 </details> 
 
 ### Recent Accomplishments
-I've successfully completed "Data Science Math Skills" from Duke University and "SQL for Data Science" from UC Davis on Coursera. These courses have enhanced my understanding in key areas of data science.
+Alongside completing "Data Science Math Skills" from Duke University and "SQL for Data Science" from UC Davis, I've also successfully developed the TRVL website. This project represents a significant milestone in my web development journey, showcasing my skills in React, CSS, and JavaScript. It's a testament to my ability to create visually appealing and user-friendly interfaces, further solidifying my foundational understanding in both data science and web development.
 
 ### Current Learning Focus
 Currently, I am applying my skills in data analytics through the Google Data Analytics Professional Certificate. This experience is shaping my practical understanding of data analysis, as evidenced in my Chatbot project, which integrates my learnings from the Google certificate program.
