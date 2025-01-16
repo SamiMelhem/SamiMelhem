@@ -2,7 +2,7 @@
 
 **Digital Craftsman (Developer/Musician/Health Enthusiast)**
 
-I am a sophomore at Texas A&M University pursuing an internship in Data Science as a Computer Science Major. I have interned at INTERA Incorporated where I was a data engineering intern that developed data-driven solutions for the water department. I am also pursuing Google's Data Analytics Professional Certificate where I am learning in-demand skills for pursuing a path in data analytics. I am currently working on data science and full stack coding projects.
+I am a junior at Texas A&M University pursuing an internship in Data Science as a Computer Science Major. I have interned at INTERA Incorporated and Pivotal Research where I was a data science and data engineering interns (respectfully) that developed data-driven solutions for the water department of INTERA Incorporated, developed a carbon footprint tracker for INTERA Incorporated, and developed data/ML pipelines for clients under Pivotal Research. I am also pursuing Google's Data Analytics Professional Certificate where I am learning in-demand skills for pursuing a path in data analytics. I am currently working on data science and full stack coding projects.
 
 ---
 
