@@ -2,7 +2,7 @@
 
 **Digital Architect (Developer/Musician/Health Enthusiast)**
 
-I am a senior at Texas A&M University pursuing an internship in Data Science as a Computer Science Major. I have interned at INTERA Incorporated and Pivotal Research where I was a data science and data engineering interns (respectfully) that developed data-driven solutions for the water department of INTERA Incorporated, developed a carbon footprint tracker for INTERA Incorporated, and developed data/ML pipelines for clients under Pivotal Research. I am also pursuing Google's Data Analytics Professional Certificate where I am learning in-demand skills for pursuing a path in data analytics. I am currently working on data science and full stack coding projects.
+I am a senior at Texas A&M University pursuing an job in Software Engineering as a Computer Science Major. I have interned at Momentum Technologies Inc. as an R&D Intern and currently a Machine Learning Engineer, I also worked for INTERA Incorporated and Pivotal Research where I was a data science and data engineering interns (respectfully) that developed data-driven solutions for the water department of INTERA Incorporated, developed a carbon footprint tracker for INTERA Incorporated, and developed data/ML pipelines for clients under Pivotal Research. I have a Google Cybersecurity Professional Certificate where I learned the ins and outs of Cybersecurity and how I can apply many cybersecurity principles to the software that I build. I am currently working on full stack coding projects and developing my startup: TutorLM.
 
 ---
 
@@ -37,10 +37,10 @@ I am a senior at Texas A&M University pursuing an internship in Data Science as 
 </details> 
 
 ### Recent Accomplishments
-Alongside completing "Data Science Math Skills" from Duke University and "SQL for Data Science" from UC Davis, I've also successfully developed the TRVL website. This project represents a significant milestone in my web development journey, showcasing my skills in React, CSS, and JavaScript. It's a testament to my ability to create visually appealing and user-friendly interfaces, further solidifying my foundational understanding in both data science and web development.
+I was awarded a $10k scholarship to become a MELOY Fellow representing Engineering Entrepreneurship at Texas A&M where I'll be getting mentoring and funding towards my startup.
 
 ### Current Learning Focus
-Currently, I am apart of two Data Science Internships at INTERA Inc. and Pivotal Research Inc., along with being a software developer for Teamup. During this summer I am working on coding interview prep while also learning new technologies and methodologies.
+I am currently focusing on learning Bun, building LLMs from scratch (LLM Engineer Handbook), PySpark, Cost Optimization when adopting new tools, and more!
 
 
 Check out my repos ⬇️
