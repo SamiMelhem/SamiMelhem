@@ -2,29 +2,54 @@
 
 **Digital Architect (Developer/Musician/Health Enthusiast)**
 
-I am a senior at Texas A&M University pursuing an job in Software Engineering as a Computer Science Major with a minor in Cybersecurity. I have interned at Momentum Technologies Inc. as an R&D Intern and a Machine Learning Engineer, I also worked for INTERA Incorporated and Pivotal Research where I was a data science and data engineering interns (respectfully) that developed data-driven solutions for the water department of INTERA Incorporated, developed a carbon footprint tracker for INTERA Incorporated, and developed data/ML pipelines for clients under Pivotal Research. I have a Google Cybersecurity Professional Certificate where I learned the ins and outs of Cybersecurity and how I can apply many cybersecurity principles to the software that I build. I am currently working on full stack and AI/ML coding projects and developing my startup: TutorLM.
+📍 **Cedar Park, TX** | 🚀 **Incoming SWE @ Visa** | 🎓 **bachelor's and Master's in Computer Science @ Texas A&M University**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+> Senior in Computer Science with Cybersecurity Minor at Texas A&M. 4x intern across ML, data science, and data engineering. Currently building tools to make life easier.
+
+---
+## What I'm Working On
+
+- **Building TutorLM** — building AI Tutors to learn better
+- **Building LLMs from scratch** — working through the LLM Engineer Handbook
+- **Learning PySpark** — scaling data pipelines for large-scale processing
+- **Cost optimization** — studying efficient tooling adoption strategies
+---
+
+## Current Projects
+
+- 🔑 **[PyAuth](https://github.com/SamiMelhem/PyAuth)** — Python authentication library
+- 🧪 **[CustomBench](https://github.com/SamiMelhem/CustomBench)** — Web app & CLI for benchmarking LLMs via OpenRouter
+- 🧠 **[notion-rag-cli](https://github.com/SamiMelhem/notion-rag-cli)** — RAG system for Notion with vector database integration and semantic search
+- 📊 **[FinancialModelingTool](https://github.com/SamiMelhem/FinancialModelingTool)** — Financial analysis and forecasting for top 50 global companies
+- 🚦 **[ai-routing-system](https://github.com/SamiMelhem/ai-routing-system)** — AI-powered routing system
+- 🌍 **[exped-browser](https://github.com/SamiMelhem/exped-browser)** — Modern, offline-capable browser with customization
+- 🔍 **[seek_babel](https://github.com/SamiMelhem/seek_babel)** — TypeScript search tool
+- ⛽ **[save-gas](https://github.com/SamiMelhem/save-gas)** — Real-time gas price navigator with interactive mapping
+
+### Legacy Projects
+
+- 💵 **[wisprflow_money_saver](https://github.com/SamiMelhem/wisprflow_money_saver)** — Financial savings tool
+- 💧 **[H2OFilterAnalysis](https://github.com/SamiMelhem/H2OFilterAnalysis)** — Water quality assessment tool
+- 🤖 **[Chatbot](https://github.com/SamiMelhem/Chatbot)** — AI-powered chatbot using neural networks
+- 🛡️ **[Cyber-Attacker](https://github.com/SamiMelhem/Cyber-Attacker)** — Network security project demonstrating packet techniques
+- 🖥️ **[ClientServerProcess](https://github.com/SamiMelhem/ClientServerProcess)** — TCP/IP networked client-server application
+- 🐚 **[AggieLinuxShell](https://github.com/SamiMelhem/AggieLinuxShell)** — Custom Linux shell mimicking Bash functionality
 
 ---
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+### Recent Accomplishments
+I was awarded a $10k scholarship to become a MELOY Fellow representing Engineering Entrepreneurship at Texas A&M.
 
 #
 
@@ -39,12 +64,5 @@ I am a senior at Texas A&M University pursuing an job in Software Engineering as
           Following my successful internship during the summer, I managed to create my website (samimelhem.com) and my Notion RAG CLI tool that was liked by many recruiters when I applied during my senior year. On top of that I got a return offer to work for the startup during the fall semester! This made me confident in my ability to show up and perform well as a software engineer. It also made me realize that I want to specialize in building internal tools, create Small Language Model (SLM) applications, and build infrastructure within a company.<br>
           During my fall semester of my senior year I managed to create and start open-source projects as I want to continue to learn about these software concepts, but to also contribute to open-source and leave an impact to CS students who want to get into CS nowadays in such a competitive market.
 </details> 
-
-### Recent Accomplishments
-I was awarded a $10k scholarship to become a MELOY Fellow representing Engineering Entrepreneurship at Texas A&M where I'll be getting mentoring and funding towards my startup.
-
-### Current Learning Focus
-I am currently focusing on learning Bun, building LLMs from scratch (LLM Engineer Handbook), PySpark, Cost Optimization when adopting new tools, and more!
-
 
 Check out my repos ⬇️
